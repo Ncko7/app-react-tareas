@@ -1,70 +1,57 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📝 Task Manager App
 
-## Available Scripts
+¡Bienvenido a la Task Manager App! 🎉
 
-In the project directory, you can run:
+Puedes ver la aplicación en acción aquí: [Task Manager App 🌐](https://fcc-app-react-tareas.netlify.app/) 
 
-### `npm start`
+Esta aplicación está hecha con React.js y te permite agregar y eliminar tareas de manera fácil y rápida. Es la herramienta perfecta para mantener tus pendientes organizados y nunca olvidar lo que tienes que hacer. ✅
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## 🚀 Características
+🔸*Añadir Tareas:* Crea nuevas tareas con solo un clic.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🔸*Eliminar Tareas:* Elimina las tareas completadas o que ya no necesitas.
 
-### `npm run build`
+🔸*Interfaz Intuitiva:* Diseñada para ser fácil de usar y accesible.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Tecnologías Utilizadas
+👉🏻 React.js: La magia detrás de la interfaz interactiva.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+👉🏻 JavaScript: El lenguaje que da vida a la lógica de la aplicación.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+👉🏻 CSS: Estilos que hacen que la aplicación se vea genial.
 
-### `npm run eject`
+👉🏻 HTML: La estructura básica de la aplicación.
+## 🖥️ Run Locally
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Sigue estos sencillos pasos para poner en marcha la aplicación en tu entorno local:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clona este repositorio: 
+```
+    git clone https://github.com/tuusuario/app-react-tareas.git
+```
+2. Instala las dependencias necesarias: 
+```
+    npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+3. Incia la aplicación: 
+```
+    npm start
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
 
-## Learn More
+Ahora puedes abrir tu navegador y disfrutar de tu Drum Machine en `http://localhost:3000.`
+## 🙏 Agradecimientos
+Este proyecto fue inspirado por el curso de [React.js de freeCodeCamp.](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=19607s) ¡Gracias por proporcionar recursos educativos increíbles y gratuitos! 💚
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📸 Screenshots
 
-### Code Splitting
+![Captura de pantalla 2024-09-02 105515](https://github.com/user-attachments/assets/44973780-9df7-4d68-b07a-6efb985abaa6)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Captura de pantalla 2024-09-02 105616](https://github.com/user-attachments/assets/2b39acd3-58cc-420a-bef0-4702edfa37ea)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
